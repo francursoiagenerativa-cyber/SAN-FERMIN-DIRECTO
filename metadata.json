@@ -1,0 +1,6 @@
+{
+  "name": "San Fermín Run: Realistic Cinematic Edition",
+  "description": "Videojuego arcade cinematográfico 2D de San Fermín en Pamplona con estética hiperrealista, físicas dinámicas, escenarios detallados y persecución de toros bravos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
